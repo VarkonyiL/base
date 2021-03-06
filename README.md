@@ -55,10 +55,12 @@ Quoting the exercise:
 >Add some notes to the Readme using Markdown
 
 The list of added markdown
-1. strikedtrough
+1. strough
    - Bold text
      - Quoted the exercise text
 Make a mergecnoflict
+##Making some edit so i can get conflict
+##Conict
 
 Somehow i need to make a merge conflict
 :+1:
