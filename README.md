@@ -58,6 +58,5 @@ The list of added markdown
 1. strikedtrough
    - Bold text
      - Quoting the text
-
-Somehow i need to make a merge conflict
-:+1:
+## Making some changes so i can get a conflict
+###conflict
