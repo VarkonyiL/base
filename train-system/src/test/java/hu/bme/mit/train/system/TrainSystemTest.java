@@ -59,7 +59,7 @@ public class TrainSystemTest {
 	@Test
 	public void OverridingSensorSpeedlimit_multipletimes() {
 		sensor.overrideSpeedLimit(20);
-		sensor.overrideSpeedLimit(40);
+		sensor.overrideSpeedLimit(80);
 		Assert.assertEquals(40, sensor.getSpeedLimit());
 	}
 	
