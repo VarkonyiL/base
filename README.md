@@ -57,10 +57,5 @@ Quoting the exercise:
 The list of added markdown
 1. strough
    - Bold text
-     - Quoted the exercise text
-Make a mergecnoflict
-##Making some edit so i can get conflict
-##Conict
-
-Somehow i need to make a merge conflict
-:+1:
+     - quote text
+       - emoji :+1:
