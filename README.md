@@ -58,5 +58,6 @@ The list of added markdown
 1. strikedtrough
    - Bold text
      - Quoted the exercise text
+Make a mergecnoflict
 
 :+1:
