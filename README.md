@@ -57,6 +57,6 @@ Quoting the exercise:
 The list of added markdown
 1. strikedtrough
    - Bold text
-     - Quoting the text
+     - Quoted the exercise text
 
 :+1:
