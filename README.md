@@ -58,6 +58,7 @@ The list of added markdown
 1. strikedtrough
    - Bold text
      - Quoted the exercise text
+Make a mergecnoflict
 
 Somehow i need to make a merge conflict
 :+1:
