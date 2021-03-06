@@ -3,6 +3,5 @@ subprojects {
 
   repositories {
     jcenter()
-    mavenCentral()
   }
 }
